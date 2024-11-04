@@ -1,8 +1,8 @@
-# Starter folder
+# US_election_draft
 
 ## Overview
 
-This repo provides students with a foundation for their own projects associated with *Telling Stories with Data*. You do not need every aspect for every paper and you should delete aspects that you do not need.
+This repo uses a generalized linear model to forecast the winner of the upcoming US presidential election using “poll-of-polls” (Blumenthal 2014; Pasek 2015) and provides a short paper telling a story.
 
 
 ## File Structure
