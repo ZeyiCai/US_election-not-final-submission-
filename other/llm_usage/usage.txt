@@ -1,0 +1,8 @@
+LLM: ChatGPT-4.
+Date: 3 November 2024
+
+Some of the r code from
+01-test_simulated_data.R
+04-test_analysis_data.R
+are wrote with the help of ChatGPT.
+

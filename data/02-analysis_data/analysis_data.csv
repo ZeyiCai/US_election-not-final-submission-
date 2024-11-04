@@ -1,0 +1,16 @@
+pollster,methodology,numeric_grade,state,candidate,party,percentage,sample_size
+Ipsos,In-person,4.8,California,Kamala Harris,Republican,27,2447
+ActiVote,Online,3.1,Texas,Kamala Harris,Democrat,25.9,1994
+YouGov,Mixed,4.6,Florida,Kamala Harris,Republican,52.9,1094
+YouGov,In-person,3.3,California,Kamala Harris,Democrat,59.7,1695
+YouGov,Phone,3.6,Ohio,Kamala Harris,Republican,51,2559
+YouGov,In-person,3.6,New York,Donald Trump,Republican,21.7,1925
+TIPP Insights,Phone,3.2,California,Kamala Harris,Democrat,31,1228
+YouGov,Phone,3.4,Georgia,Donald Trump,Democrat,54,2247
+TIPP Insights,Phone,4.2,Ohio,Donald Trump,Republican,49.2,2046
+TIPP Insights,Online,4.4,California,Kamala Harris,Democrat,44.6,2819
+YouGov,In-person,3.7,Texas,Kamala Harris,Democrat,53.8,1847
+Ipsos,Phone,3.5,Florida,Kamala Harris,Republican,40.9,2720
+ActiVote,Phone,4.2,Texas,Kamala Harris,Democrat,55.5,2564
+TIPP Insights,In-person,4.9,North Carolina,Donald Trump,Democrat,40.9,1123
+YouGov,Online,4.1,Florida,Donald Trump,Democrat,26.6,1605
